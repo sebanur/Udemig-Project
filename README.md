@@ -7,7 +7,7 @@ The project focuses on creating a modern and user-friendly interface for an onli
 
 HTML5, CSS3, Bootstrap, Bootstrap Icons, Responsive Web Design
 
-<h3>Technologies Used and Libraries Used</h3>
+<h3>Preview</h3>
 
 ![](udemig.gif)
 
